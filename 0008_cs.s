@@ -1,4 +1,4 @@
-	#Count_sort.s William H Chuang
+	#William H Chuang
 	.text
 	.globl        main
 main:
