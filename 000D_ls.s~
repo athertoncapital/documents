@@ -1,0 +1,10 @@
+	.section
+	.text
+	.global sum
+sum:
+	push %rbp
+	mov     %rsp, %rbp
+	add     %rdi, %rsi
+	mov     %rsi, %rax
+	leave
+	ret
