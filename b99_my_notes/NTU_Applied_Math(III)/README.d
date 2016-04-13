@@ -2,3 +2,4 @@
 (This repository has some remnants/heritages of them.)
 
 -We had roughly 1.5 hours for the midterm and final exams.
+(Both were closed book exams!)
